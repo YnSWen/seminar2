@@ -1,0 +1,15 @@
+/Users/yana/Desktop/code/seminars/seminar2/task2_dop/bin/Debug/net6.0/task2_dop
+/Users/yana/Desktop/code/seminars/seminar2/task2_dop/bin/Debug/net6.0/task2_dop.deps.json
+/Users/yana/Desktop/code/seminars/seminar2/task2_dop/bin/Debug/net6.0/task2_dop.runtimeconfig.json
+/Users/yana/Desktop/code/seminars/seminar2/task2_dop/bin/Debug/net6.0/task2_dop.dll
+/Users/yana/Desktop/code/seminars/seminar2/task2_dop/bin/Debug/net6.0/task2_dop.pdb
+/Users/yana/Desktop/code/seminars/seminar2/task2_dop/obj/Debug/net6.0/task2_dop.csproj.AssemblyReference.cache
+/Users/yana/Desktop/code/seminars/seminar2/task2_dop/obj/Debug/net6.0/task2_dop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yana/Desktop/code/seminars/seminar2/task2_dop/obj/Debug/net6.0/task2_dop.AssemblyInfoInputs.cache
+/Users/yana/Desktop/code/seminars/seminar2/task2_dop/obj/Debug/net6.0/task2_dop.AssemblyInfo.cs
+/Users/yana/Desktop/code/seminars/seminar2/task2_dop/obj/Debug/net6.0/task2_dop.csproj.CoreCompileInputs.cache
+/Users/yana/Desktop/code/seminars/seminar2/task2_dop/obj/Debug/net6.0/task2_dop.dll
+/Users/yana/Desktop/code/seminars/seminar2/task2_dop/obj/Debug/net6.0/refint/task2_dop.dll
+/Users/yana/Desktop/code/seminars/seminar2/task2_dop/obj/Debug/net6.0/task2_dop.pdb
+/Users/yana/Desktop/code/seminars/seminar2/task2_dop/obj/Debug/net6.0/task2_dop.genruntimeconfig.cache
+/Users/yana/Desktop/code/seminars/seminar2/task2_dop/obj/Debug/net6.0/ref/task2_dop.dll
